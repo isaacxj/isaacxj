@@ -1,39 +1,66 @@
-<h1 align="center">Hi, I'm Isaac Joseph</h1>
 <p align="center">
-  Software and solutions engineer in Dallas, TX. I build test automation, integrations, and the glue that gets products working for real customers.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isaac%20Joseph&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20%26%20Solutions%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Isaac Joseph"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4FC3F7&center=true&vCenter=true&width=520&lines=Full-stack+web+development;Freelance+client+projects;Technical+demos+and+implementations;Based+in+Dallas%2C+TX" alt="Typing intro"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/isaac--joseph"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://statixx.dev"><img src="https://img.shields.io/badge/statixx.dev-111111?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Statixx Solutions"/></a>
-  <a href="mailto:isaacmelethjoseph@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://statixx.dev"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
 
-### What I'm working on
+### About me
 
-- **Highway**: Technical Solutions Engineer on carrier identity and fraud prevention for freight
-- **Trazo**: Co-founder and solutions engineer at an AI/controls startup, focused on compliance workflows and demo readiness
-- **Statixx Solutions**: My Texas consulting LLC for web development, integrations, and pre-sales engineering
+I'm a software engineer in Dallas. I've spent most of my career building full-stack web apps, both on product teams and as a freelancer for clients who needed a site, an integration, or a working prototype. These days I also do a lot of the technical side of selling and deploying software: demos, proofs of concept, and getting customers set up.
 
-### What I've done
+I studied Electrical and Computer Engineering at UBC.
 
-- Led test automation at Paycom: owned the automation roadmap, built Selenium suites in Java and C#, wired them into GitLab CI/CD, and led validation for an LLM chatbot
-- Ran web development, Shopify integrations, and pre-sales consulting at Aptixx Development
-- Co-founded FlexTrack Health and helped see it through a technology sale
-- VP of Electrical Design on the UBC rover team: motor control, power distribution, and sensor integration
-- B.A.Sc. in Electrical and Computer Engineering, Computer Science minor, UBC (2024)
+### What I work on
 
-### Tools I use
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Full-stack development</b><br/>
+      Web apps from front end to back end, client websites, and static sites deployed on Cloudflare Pages.
+    </td>
+    <td width="33%" valign="top">
+      <b>Freelance and integrations</b><br/>
+      Client builds, Shopify integrations, and custom tooling for small businesses.
+    </td>
+    <td width="33%" valign="top">
+      <b>Solutions engineering</b><br/>
+      Technical discovery, demos, and implementation work with customers.
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,selenium,gitlab,git,cloudflare,arduino&perline=10" alt="Tech stack"/>
+### Experience
+
+- **Statixx Solutions**: My consulting practice. Web development and integration work for clients.
+- **Highway**: Technical Solutions Engineer. Freight technology focused on carrier identity and fraud prevention.
+- **Trazo**: Co-founder and solutions engineer at an AI and controls startup.
+- **Paycom**: Software Developer III. Built and maintained test automation in Java and C# and ran it in GitLab CI/CD.
+- **Aptixx Development**: Lead Software Developer. Client websites, Shopify integrations, and pre-sales consulting.
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,cs,git,gitlab,cloudflare,selenium&perline=9" alt="Tools"/>
 </p>
 
-### GitHub stats
+### Activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=isaacxj&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacxj&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
 </p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=isaacxj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
