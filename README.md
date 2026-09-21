@@ -56,7 +56,11 @@ I studied Electrical and Computer Engineering at UBC.
 ### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,cs,git,gitlab,cloudflare,selenium&perline=9" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cs,html,css&perline=7" alt="Languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mongodb&perline=6" alt="Frameworks & Databases"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,cloudflare,git,github,gitlab&perline=7" alt="DevOps & Hosting"/>
 </p>
 
 ### Get in touch
