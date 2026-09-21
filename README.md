@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isaac%20Joseph&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20%26%20Solutions%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Isaac Joseph"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isaac%20Joseph&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20and%20Solutions%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Isaac Joseph"/>
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
+  <a href="https://statixx.dev"><img src="https://img.shields.io/badge/statixx.dev-2c5364?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="statixx.dev"/></a>
   <a href="https://linkedin.com/in/isaac--joseph"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://statixx.dev"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
@@ -18,6 +18,13 @@
 I'm a software engineer in Dallas. I've spent most of my career building full-stack web apps, both on product teams and as a freelancer for clients who needed a site, an integration, or a working prototype. These days I also do a lot of the technical side of selling and deploying software: demos, proofs of concept, and getting customers set up.
 
 I studied Electrical and Computer Engineering at UBC.
+
+### Statixx Solutions
+
+> [!TIP]
+> **Statixx Solutions** is my development and consulting practice. I build websites, web apps, and integrations for businesses, from the first scoping call through launch.
+>
+> **Need something built?** Get in touch at **[statixx.dev](https://statixx.dev)**.
 
 ### What I work on
 
@@ -29,7 +36,7 @@ I studied Electrical and Computer Engineering at UBC.
     </td>
     <td width="33%" valign="top">
       <b>Freelance and integrations</b><br/>
-      Client builds, Shopify integrations, and custom tooling for small businesses.
+      Client builds, Shopify integrations, and custom tooling for small businesses through Statixx.
     </td>
     <td width="33%" valign="top">
       <b>Solutions engineering</b><br/>
@@ -40,7 +47,7 @@ I studied Electrical and Computer Engineering at UBC.
 
 ### Experience
 
-- **Statixx Solutions**: My consulting practice. Web development and integration work for clients.
+- **[Statixx Solutions](https://statixx.dev)**: Founder. Web development and integration work for clients.
 - **Highway**: Technical Solutions Engineer. Freight technology focused on carrier identity and fraud prevention.
 - **Trazo**: Co-founder and solutions engineer at an AI and controls startup.
 - **Paycom**: Software Developer III. Built and maintained test automation in Java and C# and ran it in GitLab CI/CD.
@@ -52,15 +59,8 @@ I studied Electrical and Computer Engineering at UBC.
   <img src="https://skillicons.dev/icons?i=js,html,css,java,cs,git,gitlab,cloudflare,selenium&perline=9" alt="Tools"/>
 </p>
 
-### Activity
+### Get in touch
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=isaacxj&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacxj&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=isaacxj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
+For project work, reach out through [statixx.dev](https://statixx.dev). For everything else, [LinkedIn](https://linkedin.com/in/isaac--joseph) is the best place to find me.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
