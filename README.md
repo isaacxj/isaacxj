@@ -15,7 +15,7 @@
 
 ### About me
 
-I'm a software engineer in Dallas. I've spent most of my career building full-stack web apps, both on product teams and as a freelancer for clients who needed a site, an integration, or a working prototype. These days I also do a lot of the technical side of selling and deploying software: demos, proofs of concept, and getting customers set up.
+I'm a software / solutions engineer in Dallas. I've spent most of my career building full-stack web apps, both on product teams and as a freelancer for clients who needed a site, an integration, or a working prototype. These days I also do a lot of the technical side of selling and deploying software: demos, proofs of concept, and getting customers set up.
 
 I studied Electrical and Computer Engineering at UBC.
 
